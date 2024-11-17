@@ -5,7 +5,7 @@ Korolev Sergey
 
 ## Contact Information
 <span style="float:right;padding:6px">
-  <b>e-mail:<b> serhio@gmail.com <br> <b>mobile phone:</b> +995 555100700
+  <b>e-mail:</b> serhio@gmail.com <br> <b>mobile phone:</b> +995 555100700
 </span>
 
 ## Brief Self-Introduction
