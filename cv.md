@@ -1,12 +1,12 @@
-<img src="/public/avatar.png" alt="photo"/>
 
+![Avatar](public/avatar.png "photo")
 ## Full Name
 Korolev Sergey
 
 ## Contact Information
-<span style="float:right;padding:6px">
-  <b>e-mail:</b> serhio@gmail.com <br> <b>mobile phone:</b> +995 555100700
-</span>
+
+**e-mail:** serhio@gmail.com  
+**mobile phone:** +995 555100700
 
 ## Brief Self-Introduction
 ### Goals
